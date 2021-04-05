@@ -1,2 +1,2 @@
 # shell
-simple shell made during computer systems course
+Simple shell made during computer systems course
